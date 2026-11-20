@@ -1,4 +1,6 @@
+ -M main
 
+ 
 #include <iostream>
 #include <string>
 #include <limits>
